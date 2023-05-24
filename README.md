@@ -1,4 +1,4 @@
-# NoBroker-end-to-end-data-analysis-project
+# Webscraping & Visualization NoBroker
 This repository contains data analysis project on NoBroker data, performed using python, power bi.
 
 ## Table of Contents
@@ -21,30 +21,27 @@ The purpose of this project is to understand the data, discover patterns,trends,
 
 ## Installation
 For web scraping you need to have python installed. 
-If you don't have Python installed, you can download it from the official Python website: [(https://www.python.org/downloads/)] Or you can use Anaconda (Jupyter Notebook) : [https://www.anaconda.com/]
+If you don't have Python installed, you can download it from the official Python website: [Python Website](https://www.python.org/downloads/) Or you can use Anaconda (Jupyter Notebook) : [Anaconda](https://www.anaconda.com/)
+
 The following libraries are used in this project: 
 
- Pandas : [https://pandas.pydata.org/] 
+ Pandas : https://pandas.pydata.org/
  
- NumPy : [https://numpy.org/install/] 
+ NumPy : https://numpy.org/install/
  
- BeautifulSoup : [https://pypi.org/project/beautifulsoup4/]
+ BeautifulSoup : https://pypi.org/project/beautifulsoup4/
  
- Time : [https://pypi.org/project/python-time/]
+ Time : https://pypi.org/project/python-time/
  
- Selenium : [https://www.selenium.dev/downloads/]
+ Selenium : https://www.selenium.dev/downloads/
  
 To run the Power BI Dashboard, follow these steps:
 
-Install Power BI Desktop, which can be downloaded from the official Power BI website https://app.powerbi.com/
-
-Clone or download this repository to your local machine.
-
-git clone https://github.com/Rupanavale/NoBroker-end-to-end-data-analysis-project/edit/main/README.md
+Install Power BI Desktop, which can be downloaded from the official [Power BI website](https://app.powerbi.com/)
 
 ##  Usage
 For Python:
-1. Clone the repository to your local machine: git clone https://github.com/Rupanavale/NoBroker-end-to-end-data-analysis-project.git
+1. Clone the repository to your local machine: [git clone](https://github.com/Rupanavale/Webscraping-&-Visualization-NoBroker.git)
 2. Navigate to the specific dataset or analysis of interest.
 3. Open the Python script or Jupyter notebook in your preferred environment (e.g., Jupyter Notebook, JupyterLab, or any Python IDE).
 4. Execute the code cells or run the script to perform the EDA.
@@ -59,7 +56,7 @@ For Power BI:
 
 ## Data Source
 The dataset used in this project is webscrapped using python.
-The site which is scrapped is [https://www.nobroker.in/property/commercial/rent/pune/multiple?searchParam=W3sibGF0IjoxOC41NTc3NDQ2LCJsb24iOjczLjkxMjQ2NzQsInBsYWNlSWQiOiJDaElKaVNGeWVzWEF3anNScmN5RkZzUHlzTkUiLCJwbGFjZU5hbWUiOiJQdW5lIiwic2hvd01hcCI6ZmFsc2V9LHsibGF0IjoxOC42Mjk3ODExLCJsb24iOjczLjc5OTcwOTQsInBsYWNlSWQiOiJDaElKcy1xOWZ6ZTR3anNSLUtDbnNkcGxRaXciLCJwbGFjZU5hbWUiOiJQaW1wcmktQ2hpbmNod2FkIiwic2hvd01hcCI6ZmFsc2V9LHsibGF0IjoxOC41OTEyNzE2LCJsb24iOjczLjczODkwODk5OTk5OTk5LCJwbGFjZUlkIjoiQ2hJSjd4c0VTTUM3d2pzUjVkN0R3MXJyeWRBIiwicGxhY2VOYW1lIjoiSGluamF3YWRpIiwic2hvd01hcCI6ZmFsc2V9XQ==&radius=2.0&city=pune&locality=Pune,Pimpri-Chinchwad,Hinjawadi&commercialPropertyType=OFFICE_SPACE,COWORKING,SHOP,SHOWROOM,GODOWN_WAREHOUSE,INDUSTRIAL_SHED,INDUSTRIAL_BUILDING,OTHER_BUSINESS,RESTAURANT_OR_CAFE&orderBy=lastUpdateDate,desc]
+The site which is scrapped is [NoBroker](https://www.nobroker.in/property/commercial/rent/pune/multiple?searchParam=W3sibGF0IjoxOC41NTc3NDQ2LCJsb24iOjczLjkxMjQ2NzQsInBsYWNlSWQiOiJDaElKaVNGeWVzWEF3anNScmN5RkZzUHlzTkUiLCJwbGFjZU5hbWUiOiJQdW5lIiwic2hvd01hcCI6ZmFsc2V9LHsibGF0IjoxOC42Mjk3ODExLCJsb24iOjczLjc5OTcwOTQsInBsYWNlSWQiOiJDaElKcy1xOWZ6ZTR3anNSLUtDbnNkcGxRaXciLCJwbGFjZU5hbWUiOiJQaW1wcmktQ2hpbmNod2FkIiwic2hvd01hcCI6ZmFsc2V9LHsibGF0IjoxOC41OTEyNzE2LCJsb24iOjczLjczODkwODk5OTk5OTk5LCJwbGFjZUlkIjoiQ2hJSjd4c0VTTUM3d2pzUjVkN0R3MXJyeWRBIiwicGxhY2VOYW1lIjoiSGluamF3YWRpIiwic2hvd01hcCI6ZmFsc2V9XQ==&radius=2.0&city=pune&locality=Pune,Pimpri-Chinchwad,Hinjawadi&commercialPropertyType=OFFICE_SPACE,COWORKING,SHOP,SHOWROOM,GODOWN_WAREHOUSE,INDUSTRIAL_SHED,INDUSTRIAL_BUILDING,OTHER_BUSINESS,RESTAURANT_OR_CAFE&orderBy=lastUpdateDate,desc)
 
 
 ## Technologies Used
@@ -68,15 +65,17 @@ The site which is scrapped is [https://www.nobroker.in/property/commercial/rent/
 - Power BI
 
 ## Visualization
-Link: https://github.com/Rupanavale/NoBroker-end-to-end-data-analysis-project/blob/main/NoBroker%20pb.pbix
-![image](https://github.com/Rupanavale/NoBroker-end-to-end-data-analysis-project/assets/109949193/2028822e-4cfa-42dc-98a5-b19e7deef671)
+[Dashboard Link](https://github.com/Rupanavale/Webscraping-&-Visualization-NoBroker/blob/main/NoBroker%20pb.pbix)
+![image](https://github.com/Rupanavale/NoBroker-end-to-end-data-analysis-project/assets/109949193/55f7a6a0-d1c9-4732-965f-bb12b9d4e990)
+
 
 
 ## Insights
 1. Showrooms as the category has the highest rents followed by restaurants & industrial sheds respectively.
-2. 56.36% of properties are unfurnished which means more than half properties out of all are unfurnished.
-3. Showrooms as the category has the highest deposits followed by restaurants & industrial sheds respectively.
-4. The average rent per sqft is 47.71 Rs.
+2. Most of the properties i.e 97 properties have public parking.
+3. 56.36% of properties are unfurnished which means more than half properties out of all are unfurnished.
+4. Showrooms as the category has the highest deposits followed by restaurants & industrial sheds respectively.
+5. The average rent per sqft is 47.71 Rs.
 
 
 
