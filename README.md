@@ -41,7 +41,7 @@ Install Power BI Desktop, which can be downloaded from the official [Power BI we
 
 ##  Usage
 For Python:
-1. Clone the repository to your local machine: [git clone](https://github.com/Rupanavale/Webscraping-&-Visualization-NoBroker.git)
+1. Clone the repository to your local machine: [git clone](https://github.com/Rupanavale/Webscraping-and-Visualization-NoBroker.git)
 2. Navigate to the specific dataset or analysis of interest.
 3. Open the Python script or Jupyter notebook in your preferred environment (e.g., Jupyter Notebook, JupyterLab, or any Python IDE).
 4. Execute the code cells or run the script to perform the EDA.
@@ -65,7 +65,7 @@ The site which is scrapped is [NoBroker](https://www.nobroker.in/property/commer
 - Power BI
 
 ## Visualization
-[Dashboard Link](https://github.com/Rupanavale/Webscraping-&-Visualization-NoBroker/blob/main/NoBroker%20pb.pbix)
+[Dashboard Link](https://github.com/Rupanavale/Webscraping-and-Visualization-NoBroker/blob/main/NoBroker%20pb.pbix)
 ![image](https://github.com/Rupanavale/NoBroker-end-to-end-data-analysis-project/assets/109949193/55f7a6a0-d1c9-4732-965f-bb12b9d4e990)
 
 
